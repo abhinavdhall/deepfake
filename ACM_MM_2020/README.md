@@ -1,9 +1,7 @@
 # Audio-Visual Dissonance-based Deepfake Detection and Localization
 This repository contains the implementation of Audio Visual Deepfake Detection.  
   
-
-
-Komal Chugh, Parul Gupta, Abhinav Dhall and Ramanathan Subramanian, Audio-Visual Dissonance-based Deepfake Detection and Localization, ACM Multimedia 2020. Links: [[Arxiv]](https://arxiv.org/pdf/2005.14405.pdf)  
+Links: [[Arxiv]](https://arxiv.org/pdf/2005.14405.pdf)  
   
 # Dependencies
 1) Follow the steps given in `conda_requirements.txt`.  
@@ -43,5 +41,9 @@ Change the path of model file accordingly in the --test argument.
   
 For computing AUC score, run `python test.py` after executing the above command.  
   
+# Acknowledgements
+Thanks to the code available at https://github.com/TengdaHan/DPC and https://github.com/joonson/syncnet_python.  
+  
+
 
 
