@@ -26,4 +26,19 @@ If you wish to use the same videos as used by the paper authors, please refer to
   
 5) Collect video paths in csv files by running `python write_csv.py --out_dir . ` command.  
   
+# Training
+```
+python train.py --epochs 50 --out_dir .
+```
+There are other arguments that can be changed, for instance, learning rate, batch size etc. Have a look at arguments defined in `train.py`. You can use --resume argument for resuming training and give the path of model file.  
+  
+# Testing
+```
+python train.py --test log_tmp\deepfake_audio-224_r18_bs8_lr0.001\model\model_best_epoch48.pth.tar --out_dir .
+```
+Change the path of model file accordingly in the --test argument.  
+  
+For computing AUC score, run `python test.py` after executing the above command.  
+  
+
 
