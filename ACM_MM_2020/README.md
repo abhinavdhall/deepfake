@@ -1,7 +1,9 @@
 # Audio-Visual Dissonance-based Deepfake Detection and Localization
 This repository contains the implementation of Audio Visual Deepfake Detection.  
   
-Links: [[Arxiv]](https://arxiv.org/pdf/2005.14405.pdf)  
+Links: [[Arxiv]](https://arxiv.org/pdf/2005.14405.pdf) 
+
+![Network Architecture](network_architecture.png?raw=true "Network Architecture")
   
 # Dependencies
 1) Follow the steps given in `conda_requirements.txt`.  
