@@ -1,8 +1,8 @@
 # Audio-Visual Dissonance-based Deepfake Detection and Localization
 This repository contains the implementation of Audio Visual Deepfake Detection method proposed in the paper -  
   
-# Komal Chugh, Parul Gupta, Abhinav Dhall and Ramanathan Subramanian, Audio-Visual Dissonance-based Deepfake Detection and Localization, ACM Multimedia 2020.  
-Links: [[Arxiv]](https://arxiv.org/pdf/2005.14405.pdf) 
+Komal Chugh, Parul Gupta, Abhinav Dhall and Ramanathan Subramanian, Audio-Visual Dissonance-based Deepfake Detection and Localization, ACM Multimedia 2020.  
+Links: [[PDF]](https://arxiv.org/pdf/2005.14405.pdf) 
 
 ![Network Architecture](https://github.com/abhinavdhall/deepfake/blob/main/ACM_MM_2020/network_architecture.PNG)
   
@@ -46,13 +46,14 @@ For computing AUC score, run `python test.py` after executing the above command.
   
 # Reference
 If you use the code, please cite the paper -
-@inproceedings{chugh2020not,
-  title={Not made for each other-Audio-Visual Dissonance-based Deepfake Detection and Localization},
-  author={Chugh, Komal and Gupta, Parul and Dhall, Abhinav and Subramanian, Ramanathan},
-  booktitle={Proceedings of the 28th ACM international conference on Multimedia},
-  year={2020}
+```
+@InProceedings{chugh2020not,
+  author       = "Chugh, Komal and Gupta, Parul and Dhall, Abhinav and Subramanian, Ramanathan",
+  title        = "Not made for each other-Audio-Visual Dissonance-based Deepfake Detection and Localization",
+  booktitle    = "Proceedings of the 28th ACM international conference on Multimedia",
+  year         = "2020",
 }
-
+```
 # Acknowledgements
 Thanks to the code available at https://github.com/TengdaHan/DPC and https://github.com/joonson/syncnet_python.  
   
