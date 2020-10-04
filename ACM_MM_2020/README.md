@@ -1,6 +1,7 @@
 # Audio-Visual Dissonance-based Deepfake Detection and Localization
 This repository contains the implementation of Audio Visual Deepfake Detection.  
   
+Komal Chugh, Parul Gupta, Abhinav Dhall and Ramanathan Subramanian, Audio-Visual Dissonance-based Deepfake Detection and Localization, ACM Multimedia 2020.  
 Links: [[Arxiv]](https://arxiv.org/pdf/2005.14405.pdf) 
 
 ![Network Architecture](https://github.com/abhinavdhall/deepfake/blob/main/ACM_MM_2020/network_architecture.PNG)
