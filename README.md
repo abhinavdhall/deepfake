@@ -3,7 +3,9 @@
 #### 1. ACM_MM_2020 folder contains the code for the ACM Multimedia 2020 paper - 
 Komal Chugh, Parul Gupta, Abhinav Dhall and Ramanthan Subramanian, `Not made for each other-Audio-Visual Dissonance-based Deepfake Detection and Localization`, ACM Multimedia 2020
 
-Oral Presentation of the paper - 
+The code and respective readme are in the folder above.
+
+Please click on the link below for oral presentation of the paper - 
 
 [![](http://img.youtube.com/vi/rtjPoFGESFY/0.jpg)](http://www.youtube.com/watch?v=rtjPoFGESFY "")
 
