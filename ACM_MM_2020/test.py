@@ -38,4 +38,4 @@ for threshold in thresholds:
 		y_tar[count,0] = tar
 		y_pred[count,0] = pred
 		count += 1
-	print('Frame wise AUC is: '+str(roc_auc_score(y_tar, y_pred)))
+	print('Video wise AUC is: '+str(roc_auc_score(y_tar, y_pred)))
